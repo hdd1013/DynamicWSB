@@ -1,2 +1,6 @@
 .vscode
-compiled_personal
+/compiled_personal
+/compiled_personal/**
+/test
+/test/**
+*.code-workspace
