@@ -2,7 +2,7 @@ DynamicWSB
 
 Usage:
 You MUST make the settings folder to be "scriptname"+"Settings", and you also NEED a valid settings.ini inside the folder.
-You can change the script/exe filename, but the Settings Folder must be renamed as well in such cases.
+You can change the script/exe filename, but the Settings Folder must be renamed as well in such cases. (i.e. a.exe -> aSettings, downloads.exe -> downloadsSettings)
 
 License: MIT
 
